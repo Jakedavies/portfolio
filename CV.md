@@ -4,4 +4,4 @@ title: CV
 permalink: /CV/
 ---
 
-This is jakedavies CV
+Coming soon...

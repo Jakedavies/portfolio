@@ -1,0 +1,14 @@
+---
+layout: default
+permalink: /software/
+title: My Software
+---
+
+<div class="home">
+  {% for software in site.softwares %}
+    <div class="software">
+      <h1><a href="{{software.link}}">{{software.title}}</a></h1>
+      <p>{{software.content}}</p>
+    </div>
+  {% endfor %}
+</div>

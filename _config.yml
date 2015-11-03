@@ -1,7 +1,7 @@
 # Site settings
 title: Jake Davies
 email: me@jakedavies.info
-description: > # 
+description: > #
   Developer, Builder, Experimenter. <br/>
   I am a full stack software developer who loves soccer, RC and electronics.
 baseurl: "" # the subpath of your site, e.g. /blog/
@@ -10,3 +10,5 @@ github_username:  jakedavies
 
 # Build settings
 markdown: kramdown
+collections:
+- softwares

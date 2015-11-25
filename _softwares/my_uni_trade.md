@@ -1,6 +1,7 @@
 ---
 title: My Uni Trade
 link: http://myunitrade.com/
+tags: rails, html, css, javascript, jquery, ajax, postgresql, s3
 ---
 
 Built as a textbook exchange targeted at university students, My Uni Trade was developed over a summer with a friend.

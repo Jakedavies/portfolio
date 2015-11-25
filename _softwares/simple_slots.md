@@ -1,6 +1,7 @@
 ---
 title: Simple Slots
 link: http://simpleslots.herokuapp.com/
+tags: html, css, javascript, jquery, node, express, redis
 ---
 
 Simple slots was built for a coding test for a software job, I ended up getting the job, but turn it down.

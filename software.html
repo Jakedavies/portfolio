@@ -8,7 +8,36 @@ title: My Software
   {% for software in site.softwares %}
     <div class="software">
       <h1><a href="{{software.link}}">{{software.title}}</a></h1>
+      <p class="tags">{{software.tags}}</p>
       <p>{{software.content}}</p>
     </div>
   {% endfor %}
 </div>
+<script>
+  document.getElementById('tags').forEach(function(tagElem){tagElem.innerHTML = tagElem.innerHTML.split(',')
+      .reduce(function(previousValue, currentValue){
+    if(!previousValue){
+      previousValue = '';
+    }
+    return previousValue + '<span class="badge">'+currentValue+'</span>';
+    });
+  });
+</script>
+<style>
+  span {
+      display: inline-block;
+      min-width: 10px;
+      padding: 3px 7px;
+      font-size: 12px;
+      font-weight: 700;
+      line-height: 1;
+      color: #fff;
+      text-align: center;
+      white-space: nowrap;
+      vertical-align: middle;
+      background-color: #777;
+      border-radius: 10px;
+      font-weight: 100;
+      margin-left: 3px;
+    }
+</style>

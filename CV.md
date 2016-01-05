@@ -22,7 +22,7 @@ quadcopter and a Raspberry Pi I frequently repurpose for different projects.
 #### Senior Software Developer - Straw House Labs
 
 Building and deploying tools that make advertising easier. (April 2014 - Current)
-* Building distributed software applications using microservices.
+* Building distributed software applications using microservices
 * Managing large noSQL and SQL databases
 * Designing and implementing performant software systems 
 * Coordinating the efforts of others to projects
@@ -44,14 +44,14 @@ I am a 4th Year Computer Science Student at the University Of British Columbia g
 
 Here are some notable courses I have taken
 
-* Artificial Intelligence - Covered basics of artificial intelligence technique such as machine learning 
-* Database Systems - In depth analysis of different database systems and how queries are processed. Both SQL and noSQL systems were covered.
-* Parallel Computing - How to write programs that can make heavy use parallel systems such as CUDA.
-* Web Programming - Web programming technique using PHP, MYSQL, Javascript, HTML.
+* Artificial Intelligence - Covered basics of artificial intelligence technique such as machine learning
+* Database Systems - In depth analysis of different database systems and how queries are processed. Both SQL and noSQL systems were covered
+* Parallel Computing - How to write programs that can make heavy use parallel systems such as CUDA
+* Web Programming - Web programming technique using PHP, MYSQL, Javascript, HTML
 * Human Computer Interaction - Interfacing between computers and users to maximize usability and user experience 
 * Capstone Project - Building an end to end system that has an integrated web editor for the screenwriting language "Fountain" and converts this to a proprietary JSON format to create unity games using Motive.io
-* Network Analysis - Analysis of large graphs and how to gain insights from data using graph theory.
-* Educational Game Development - Building educational games with a focus on educational techniques.
+* Network Analysis - Analysis of large graphs and how to gain insights from data using graph theory
+* Educational Game Development - Building educational games with a focus on educational techniques
 
 I have also taken some online courses in my own time through Coursera and EdX
 

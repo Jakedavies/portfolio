@@ -1,21 +1,18 @@
 ---
 layout: default
 ---
+<div>
+<p>
+  I am a 4th Year Computer Science Student at the University Of British Columbia. 
+  I also work as a full stack software developer at <a href="http://strawhouselabs.com"> Straw House Labs</a> 
+  I enjoy solving problems and finding the best way to overcome constraints. 
+  I am constantly learning and playing with new technologies. 
+  My goal each day I am at my computer is to learn something new about whatever I am working on.
+<p>
 
-<div class="home">
-
-  <ul class="post-list">
-    {% for post in site.posts %}
-      <li>
-        <span class="post-meta">{{ post.date | date: "%b %-d, %Y" }}</span>
-
-        <h2>
-          <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
-        </h2>
-        <p>{{post.description}}</p>
-        <img src="{{post.preview}}" alt="Image for {{post.title}}" />
-      </li>
-    {% endfor %}
-  </ul>
-  <p class="rss-subscribe"><a href="{{ "/feed.xml" | prepend: site.baseurl }}">Subscribe </a></p>
+<p> Outside of work and school, I love soccer, electronics and hobby grade RC. I have my own custom built 
+quadcopter and a Raspberry Pi I frequently repurpose for different projects.
+</p>
 </div>
+
+

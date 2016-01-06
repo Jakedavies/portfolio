@@ -21,7 +21,7 @@ quadcopter and a Raspberry Pi I frequently repurpose for different projects.
 
 #### Senior Software Developer - Straw House Labs *April 2014 - Current*
 
-Building and deploying tools that make advertising easier. 
+* Building and deploying tools that make advertising easier. 
 * Building distributed software applications using microservices
 * Managing large noSQL and SQL databases
 * Designing and implementing performant software systems 

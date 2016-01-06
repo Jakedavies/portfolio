@@ -1,7 +1,7 @@
 # Site settings
 title: Jake Davies
 email: me@jakedavies.info
-description: > Software Developer <br/>
+description: Software Developer <br/>
   I am a full stack software developer who loves soccer, RC and electronics.
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://jakedavies.info.com" # the base hostname & protocol for your site

@@ -19,22 +19,22 @@ quadcopter and a Raspberry Pi I frequently repurpose for different projects.
 
 ## Job History
 
-#### Senior Software Developer - Straw House Labs
+#### Senior Software Developer - Straw House Labs *April 2014 - Current*
 
-Building and deploying tools that make advertising easier. (April 2014 - Current)
+Building and deploying tools that make advertising easier. 
 * Building distributed software applications using microservices
 * Managing large noSQL and SQL databases
 * Designing and implementing performant software systems 
 * Coordinating the efforts of others to projects
 
 
-#### IT Assistant - Big White Ski Resort
+#### IT Assistant - Big White Ski Resort *December 2012 - April 2014*
 
-Managing large databases, maintaining computer and networking infrastructure, troubleshooting software and hardware. (December 2012 - April 2014)
+Managing large databases, maintaining computer and networking infrastructure, troubleshooting software and hardware. 
 
-#### Computer Technician - National Computer Resource
+#### Computer Technician - National Computer Resource *June 2013 - September 2013*
 
-Fixing and building computers. (June 2013 - September 2013)
+Fixing and building computers. 
 
 ---
 

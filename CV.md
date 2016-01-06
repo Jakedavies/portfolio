@@ -13,7 +13,7 @@ I am constantly learning and playing with new technologies.
 My goal each day I am at my computer is to learn something new about whatever I am working on.
 
 Outside of work and school, I love soccer, electronics and hobby grade RC. I have my own custom built 
-quadcopter and a Raspberry Pi I frequently repurpose for different projects.
+quadcopter and a Raspberry Pi that I frequently repurpose for different projects.
 
 ---
 
@@ -25,7 +25,7 @@ quadcopter and a Raspberry Pi I frequently repurpose for different projects.
 * Building distributed software applications using microservices
 * Managing large noSQL and SQL databases
 * Designing and implementing performant software systems 
-* Coordinating the efforts of others to projects
+* Supervising the development of software systems by remote teams
 
 
 #### IT Assistant - Big White Ski Resort *December 2012 - April 2014*
@@ -44,10 +44,10 @@ I am a 4th Year Computer Science Student at the University Of British Columbia g
 
 Here are some notable courses I have taken
 
-* Artificial Intelligence - Covered basics of artificial intelligence technique such as machine learning
+* Artificial Intelligence - Covered basics of artificial intelligence techniques such as machine learning
 * Database Systems - In depth analysis of different database systems and how queries are processed. Both SQL and noSQL systems were covered
 * Parallel Computing - How to write programs that can make heavy use parallel systems such as CUDA
-* Web Programming - Web programming technique using PHP, MYSQL, Javascript, HTML
+* Web Programming - Web programming techniques using PHP, MYSQL, Javascript, HTML
 * Human Computer Interaction - Interfacing between computers and users to maximize usability and user experience 
 * Capstone Project - Building an end to end system that has an integrated web editor for the screenwriting language "Fountain" and converts this to a proprietary JSON format to create unity games using Motive.io
 * Network Analysis - Analysis of large graphs and how to gain insights from data using graph theory
